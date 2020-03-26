@@ -1,6 +1,6 @@
 segment .data
 
-	shellpath db "/bin/sh0"
+	shellpath db "/bin/sh0aaaaaaaabbbbbbbb"
 
 segment .text
 	global _start
