@@ -1,0 +1,14 @@
+By now you have probably realized that this is an image file. Do you think this image in pure noise or is there something there? 
+
+I suggest that you put this theory to the test and determine if colors are randomly dispersed within the image. If not, then you may be able to exploit that fact and find a hidden message. Hint, the php language may be better suited for this task.
+
+Good Luck!
+
+
+
+
+
+
+
+
+
