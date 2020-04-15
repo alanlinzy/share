@@ -22,7 +22,9 @@ if (isset($_POST['submit'])) {
                 //     echo "success!";
                 // }
                 if ($type == "php"){
-                    echo(md5("Q1RGe3ZwbDBhZF9DdGZfOH0=")); //CTF{vpl0ad_Ctf_6}
+                    $flag = "CTF{vpl0ad_Ctf_6}"
+                    echo "<br>"
+                    echo(base64_encode($flag)); //CTF{vpl0ad_Ctf_6}
                 }
                 else{
                     echo("please upload a php file");
